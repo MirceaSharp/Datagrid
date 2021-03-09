@@ -1,0 +1,19 @@
+C:\Users\mirce\source\repos\Datagrid\Datagrid\bin\Debug\Complexe Contol Datagrid.exe.config
+C:\Users\mirce\source\repos\Datagrid\Datagrid\bin\Debug\Complexe Contol Datagrid.exe
+C:\Users\mirce\source\repos\Datagrid\Datagrid\bin\Debug\Complexe Contol Datagrid.pdb
+C:\Users\mirce\source\repos\Datagrid\Datagrid\obj\Debug\Datagrid.csprojAssemblyReference.cache
+C:\Users\mirce\source\repos\Datagrid\Datagrid\obj\Debug\FrmLineItems.g.cs
+C:\Users\mirce\source\repos\Datagrid\Datagrid\obj\Debug\FrmProducten.g.cs
+C:\Users\mirce\source\repos\Datagrid\Datagrid\obj\Debug\MainWindow.g.cs
+C:\Users\mirce\source\repos\Datagrid\Datagrid\obj\Debug\App.g.cs
+C:\Users\mirce\source\repos\Datagrid\Datagrid\obj\Debug\Complexe Contol Datagrid_MarkupCompile.cache
+C:\Users\mirce\source\repos\Datagrid\Datagrid\obj\Debug\Complexe Contol Datagrid_MarkupCompile.lref
+C:\Users\mirce\source\repos\Datagrid\Datagrid\obj\Debug\FrmLineItems.baml
+C:\Users\mirce\source\repos\Datagrid\Datagrid\obj\Debug\FrmProducten.baml
+C:\Users\mirce\source\repos\Datagrid\Datagrid\obj\Debug\MainWindow.baml
+C:\Users\mirce\source\repos\Datagrid\Datagrid\obj\Debug\Complexe Contol Datagrid.g.resources
+C:\Users\mirce\source\repos\Datagrid\Datagrid\obj\Debug\Complexe_Contol_Datagrid.Properties.Resources.resources
+C:\Users\mirce\source\repos\Datagrid\Datagrid\obj\Debug\Datagrid.csproj.GenerateResource.cache
+C:\Users\mirce\source\repos\Datagrid\Datagrid\obj\Debug\Datagrid.csproj.CoreCompileInputs.cache
+C:\Users\mirce\source\repos\Datagrid\Datagrid\obj\Debug\Complexe Contol Datagrid.exe
+C:\Users\mirce\source\repos\Datagrid\Datagrid\obj\Debug\Complexe Contol Datagrid.pdb

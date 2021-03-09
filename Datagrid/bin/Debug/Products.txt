@@ -1,0 +1,5 @@
+﻿Book;JSE14;Patrick Niemeyer;49,50;Niemeyer
+Book;b1;book1;10;ikke
+Software;S1;software1;20;1.0
+Product;P1;Product1;15;
+Book;B2;Book2;21;jij

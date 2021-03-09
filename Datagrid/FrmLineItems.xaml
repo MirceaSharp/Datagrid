@@ -1,0 +1,19 @@
+﻿<Window x:Class="Complexe_Contol_Datagrid.FrmLineItems"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Complexe_Contol_Datagrid"
+        mc:Ignorable="d"
+        Title="FrmLineItems" Height="300" Width="500" Loaded="Window_Loaded">
+    <Grid Margin="0,0,-64,0">
+        <DataGrid Name="dgLineItem" CanUserAddRows="True"  AutoGenerateColumns="false" RowEditEnding="dgLineItem_RowEditEnding"   >
+            <DataGrid.Columns >
+                <DataGridTextColumn Binding="{Binding Path=LineItemID}" IsReadOnly="True"  Width="100" Header="ID" />
+                <DataGridTextColumn Binding="{Binding Path=Quantity,UpdateSourceTrigger=PropertyChanged }"  Width="100" Header="Quantity" />
+                <DataGridComboBoxColumn x:Name="cmbProducten" DisplayMemberPath="Description"  SelectedItemBinding="{Binding Path=Product,UpdateSourceTrigger=PropertyChanged}" Header="Product"></DataGridComboBoxColumn>
+                <DataGridTextColumn Binding="{Binding Path=FormattedSubTotal, Mode=OneWay}" IsReadOnly="True"  Width="100" Header="SubTotal" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
