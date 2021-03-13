@@ -23,6 +23,9 @@ namespace Complexe_Contol_Datagrid
             {
                 total += li.SubTotal();
             }
+
+
+
             return total;
         }
 
